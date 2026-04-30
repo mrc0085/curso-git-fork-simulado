@@ -1,3 +1,5 @@
 "Hola mundo" 
-"Segunda l¡nea" 
+"Segunda lï¿½nea" 
 "Aprendiendo staging area" 
+"Cambio que aÃºn no quiero commitear"
+Cambio en experimentogit
