@@ -1,4 +1,4 @@
-"Master: primera línea modificada"
+"Master y Funcion combinadas"
 "Segunda l�nea" 
 "Aprendiendo staging area" 
 "Cambio que aún no quiero commitear"
