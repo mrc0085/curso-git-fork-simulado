@@ -1,4 +1,4 @@
-"Hola mundo" 
+"Master: primera línea modificada"
 "Segunda l�nea" 
 "Aprendiendo staging area" 
 "Cambio que aún no quiero commitear"
