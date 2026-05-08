@@ -6,3 +6,4 @@ Cambio en experimentogit
 Línea desde nueva-funcion
 "Este cambio fue hecho desde la interfaz de GitHub"
 "Clonado y modificado"
+"Este cambio fue realizado desde la copia clonada del repositorio."
