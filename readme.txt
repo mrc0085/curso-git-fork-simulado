@@ -8,3 +8,4 @@ Línea desde nueva-funcion
 "Clonado y modificado"
 "Este cambio fue realizado desde la copia clonada del repositorio."
 "Esta es una modificación única hecha desde el repo original."
+"Segunda línea añadida desde el clon para probar la sincronización."
