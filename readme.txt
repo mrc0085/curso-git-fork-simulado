@@ -7,3 +7,4 @@ Línea desde nueva-funcion
 "Este cambio fue hecho desde la interfaz de GitHub"
 "Clonado y modificado"
 "Este cambio fue realizado desde la copia clonada del repositorio."
+"Segunda línea añadida desde el clon para probar la sincronización."
